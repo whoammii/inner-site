@@ -22,7 +22,7 @@ const About: React.FC<AboutProps> = (props) => {
                 <p>
                     {t('about.p2')} <Link to="/contact">click,</Link>{' '}
                     {t('about.p9')}{' '}
-                    <a href="mailto:h_mahmadali@mail.ru">h_mahmadali@mail.ru</a>
+                    <a href="mailto:maxxhalimov@gmail.com">maxxhalimov@gmail.com</a>
                 </p>
             </div>
             <ResumeDownload />
@@ -82,16 +82,16 @@ const About: React.FC<AboutProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://t.me/max_halimov"
+                        href="https://t.me/dreamerrvoid"
                     >
-                        @max_halimov
+                        @dreamerrvoid
                     </a>
                 </p>
                 <br />
                 <p>
                     {t('about.p9')}{' '}
-                    <a href="mailto:h_mahmadali@mail.ru">
-                        h_mahmadali@mail.ru
+                    <a href="mailto:maxxhalimov@gmail.com">
+                        maxxhalimov@gmail.com
                     </a>
                 </p>
             </div>

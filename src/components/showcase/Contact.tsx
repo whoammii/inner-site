@@ -37,15 +37,15 @@ const Contact: React.FC<ContactProps> = (props) => {
                 <br />
                 <p>
                     <b>{t('contact.email')} </b>
-                    <a href="mailto:h_mahmadali@mail.ru">
-                        h_mahmadali@mail.ru
+                    <a href="mailto:maxxhalimov@gmail.com">
+                        maxxhalimov@gmail.com
                     </a>
                 </p>
                 <br />
                 <div style={styles.socials}>
                     <SocialButton
                         text={t('contact.telegram')}
-                        link="https://t.me/max_halimov"
+                        link="https://t.me/dreamerrvoid"
                     />
                     <SocialButton
                         text={t('contact.whatsapp')}
