@@ -8,18 +8,18 @@ export interface CreditsProps extends WindowAppProps {}
 const CREDITS = [
     {
         title: 'Engineering & Design',
-        rows: [['Max Halimov', 'All']],
+        rows: [['Max Halimov', 'not all']],
     },
     {
         title: 'Modeling & Texturing',
         rows: [
-            ['Max Halimov', 'Texturing, Composition, & UV'],
+            ['Someone', 'Texturing, Composition, & UV'],
         ],
     },
     {
         title: 'Sound Design',
         rows: [
-            ['Max Halimov', 'Mixing, Composition, & Foley'],
+            ['Someone', 'Mixing, Composition, & Foley'],
             ['Sound Cassette', 'Office Ambience'],
             ['Windows 95 Startup Sound', 'Microsoft'],
         ],
@@ -27,7 +27,7 @@ const CREDITS = [
     {
         title: 'Special Thanks',
         rows: [
-            ['My Family', 'Dad, Mom & Anastasia ;)'],
+            ['My Family', 'Dad & Mom'],
         ],
     },
 ];
