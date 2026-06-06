@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/inner-site/static/css/main.6ed06c68.css",
-    "main.js": "/inner-site/static/js/main.fd075529.js",
+    "main.js": "/inner-site/static/js/main.dc038d29.js",
     "static/js/453.a5b25d5b.chunk.js": "/inner-site/static/js/453.a5b25d5b.chunk.js",
     "static/media/dilsuzi.mp4": "/inner-site/static/media/dilsuzi.4681e0c50e1cd2f08e2e.mp4",
     "static/media/nftmarketplace.mp4": "/inner-site/static/media/nftmarketplace.f839437fddb2e51579e1.mp4",
     "static/media/tojikonsmart.mp4": "/inner-site/static/media/tojikonsmart.01f8a05c8ce1157a3b46.mp4",
-    "static/media/CV.pdf": "/inner-site/static/media/CV.7465fc96947142b92ea6.pdf",
+    "static/media/CV.pdf": "/inner-site/static/media/CV.ac98115e0ac76966c916.pdf",
     "static/media/MSSansSerif.ttf": "/inner-site/static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
     "static/media/currentme.jpg": "/inner-site/static/media/currentme.56ed9ad149fba1f9cb05.jpg",
     "static/media/workingAtComputer.jpg": "/inner-site/static/media/workingAtComputer.ef6f1c576865d32ccdf9.jpg",
@@ -17,11 +17,11 @@
     "static/media/Millennium-Bold.ttf": "/inner-site/static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
     "index.html": "/inner-site/index.html",
     "main.6ed06c68.css.map": "/inner-site/static/css/main.6ed06c68.css.map",
-    "main.fd075529.js.map": "/inner-site/static/js/main.fd075529.js.map",
+    "main.dc038d29.js.map": "/inner-site/static/js/main.dc038d29.js.map",
     "453.a5b25d5b.chunk.js.map": "/inner-site/static/js/453.a5b25d5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed06c68.css",
-    "static/js/main.fd075529.js"
+    "static/js/main.dc038d29.js"
   ]
 }
