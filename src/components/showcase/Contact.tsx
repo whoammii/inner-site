@@ -45,7 +45,7 @@ const Contact: React.FC<ContactProps> = (props) => {
                 <div style={styles.socials}>
                     <SocialButton
                         text={t('contact.telegram')}
-                        link="https://t.me/dreamerrvoid"
+                        link="https://t.me/dreamerinvoid"
                     />
                     <SocialButton
                         text={t('contact.whatsapp')}
