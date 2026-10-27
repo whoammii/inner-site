@@ -14,7 +14,7 @@ export const translations: Record<SupportedLang, TranslationDict> = {
     'home.role': 'IT specialist',
 
     'about.welcome': 'Welcome',
-    'about.p1': "I'm an IT specialist, currently working at Dilsuzi! An enthusiastic designer, philanthropist, and vibecoder.",
+    'about.p1': "I'm Max, an IT specialist at Dilsuzi. I love design, do charity work, and build interfaces.",
     'about.p2': 'Thank you for taking the time to check out my portfolio. I really hope you enjoy exploring it as much as I enjoyed building it. If you have any questions or comments, feel free to contact me using this page ',
     'about.header': 'About Me',
     'about.p3': 'My passion for IT began in childhood, around the age of 12. I started from scratch, gradually progressing and improving step by step. My journey began with exploring the inner workings of computers, assembling hardware, diving into operating systems, and learning the basics of printing and website building.',
@@ -97,7 +97,7 @@ export const translations: Record<SupportedLang, TranslationDict> = {
     'home.role': 'IT-специалист',
 
     'about.welcome': 'Welcome',
-    'about.p1': 'Я IT-специалист, сейчас работаю в Dilsuzi! Энтузиаст дизайна, филантроп и vibecoder.',
+    'about.p1': 'Я Max, IT-специалист в Dilsuzi. Люблю дизайн, занимаюсь благотворительностью и пишу интерфейсы.',
     'about.p2': 'Спасибо, что нашли время посмотреть моё портфолио. Надеюсь, вам будет интересно изучать его так же, как мне было интересно его создавать. Если у вас есть вопросы или предложения — свяжитесь перейдя на эту страницу ',
     'about.header': 'Обо мне',
     'about.p3': 'Я начал увлекаться IT-технологиями eщё с детства, примерно в 12 лет. Я начинал с нуля, шаг за шагом развиваясь и совершенствуя навыки. Путь начался с изучения компьютеров, сборки «железа», операционных систем, основ полиграфии и создания простеньких сайтов.',
